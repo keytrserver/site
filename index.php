@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="utf-8">   
-	<title>Создание простого меню для сайта | HTML+CSS</title>
+	<title> | HTML+CSS</title>
 	<link rel="stylesheet" href="css/demo.css">
 	<link href="http://allfont.ru/allfont.css?fonts=open-sans" rel="stylesheet" type="text/css" />
 </head>
